@@ -3,6 +3,8 @@
     "name": "dona-tu-saldo",
     "slug": "dona-tu-saldo",
     "version": "1.0.0",
+    "owner": "sebafsk",
+    "description": "https://consultarsaldo.digital/uruguay/donar-saldo-antel/",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -24,7 +26,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sebafsk.donatusaldo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
